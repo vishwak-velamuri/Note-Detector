@@ -10,6 +10,7 @@
 - Dataset includes varied note positions and types across multiple samples.
 - Detects and classifies **8 classes**: A, B, C, D, E, F, G, and rest.
 - Model accessible via **Roboflow API**.
+- Link to model and dataset on Roboflow: https://app.roboflow.com/vishwaks-workspace/note-detector-fdrwc/models
 
 ---
 
