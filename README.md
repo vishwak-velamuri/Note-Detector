@@ -1,6 +1,6 @@
 # Don't Fret It!
 
-![Image](https://github.com/user-attachments/assets/34c84eb9-1e82-4d01-a374-70df1224b934)
+![Image](https://github.com/user-attachments/assets/34c84eb9-1e82-4d01-a374-70df1224b934 | width=100)
 
 **Don't Fret It** is a sleek web app that identifies musical notes (A-G + rest) in uploaded sheet music images.
 
